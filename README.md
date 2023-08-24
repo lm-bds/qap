@@ -1,1 +1,1 @@
-# qap
+# qap reporting function
